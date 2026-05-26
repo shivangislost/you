@@ -1,6 +1,6 @@
 # Mine 💖
 
-An interactive, beautiful website made for my love.
+An interactive, beautiful website made for someone special.
 
 ## Features
 - **Love Letter**: An expandable letter section.
